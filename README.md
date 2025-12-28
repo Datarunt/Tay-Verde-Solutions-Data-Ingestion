@@ -1,3 +1,5 @@
+Purpose: prove idempotent, validated ingestion with invariants.
+
 Data sources (brief, no essays)
 Idempotency guarantee (exactly what it means here)
 How to run one week + how to backfill

@@ -1,4 +1,4 @@
-## System context: Data Ingestion
+## Data Ingestion: System Context
 
 This repository is part of a larger **reliability-first industrial IoT system**.
 The system is intentionally split into four focused, frozen repositories.

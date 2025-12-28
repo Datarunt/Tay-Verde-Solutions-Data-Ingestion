@@ -6,7 +6,7 @@ The system is intentionally split into four focused, frozen repositories.
 **Explore the full system:**
 1. [Edge-reliability](https://github.com/Datarunt/Tay-Verde-Solutions-Edge-Reliability)
 2. [Data-ingestion](https://github.com/Datarunt/Tay-Verde-Solutions-Data-Ingestion)
-3. [Control-plane](https://github.com/yourusername/risk-control-plane-airflow)
+3. [Control-plane](https://github.com/Datarunt/Tay-Verde-Solutions-Control-Plane)
 4. [ML-system](https://github.com/Datarunt/Tay-Verde-Solutions-ML-System)
 
 You are currently viewing: **<Edge-Reliability>**
@@ -29,3 +29,9 @@ Deliverables
 - Backfill 8–12 weeks
 - “Intentionally corrupt one run” + postmortem
 - Clear statement of mold-vs-delivery invariants
+
+---
+
+**Previous:** See how raw telemetry is produced at the edge → [Edge-reliability](https://github.com/Datarunt/Tay-Verde-Solutions-Edge-Reliability)
+
+**Next:** See how ingestion and scoring are scheduled and replayed → [Control-plane](https://github.com/yourusername/risk-control-plane-airflow)

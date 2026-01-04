@@ -9,8 +9,6 @@ The system is intentionally split into four focused, frozen repositories.
 3. [Control-plane](https://github.com/Datarunt/Tay-Verde-Solutions-Control-Plane)
 4. [ML-system](https://github.com/Datarunt/Tay-Verde-Solutions-ML-System)
 
-You are currently viewing: **<Edge-Reliability>**
-
 Purpose: prove idempotent, validated ingestion with invariants.
 
 - Data sources (brief, no essays)
